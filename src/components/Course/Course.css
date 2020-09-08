@@ -1,0 +1,26 @@
+.course{
+    display: flex;
+    box-shadow: 3px 3px  15px lightgray;   
+    margin: 0px 10px 10px 0;
+    padding-bottom: 5px;
+    
+}
+.image_name{
+    display: flex;
+    font-weight: 400;
+    height: 300px;
+    width:350px;  
+    padding-right: 20px; 
+}
+
+.main-button{
+    background-color: #668DA6;
+    width: 150px;
+    height: 30px;
+    border: 1px solid #4799cc;
+    border-radius: 5px;
+    cursor: pointer;
+    color: White;
+    font-weight: 400;
+
+}
