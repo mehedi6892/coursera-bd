@@ -18,6 +18,8 @@ const Cart = (props) => {
              <p>Course Price: <strong>{total} </strong> BDT.</p>
              <p>Transaction Fee: <strong>{maintainCost}</strong>    BDT.</p>
              <p>Total Course Price: <strong>{grandTotal} </strong>  BDT.</p>
+             <br/>
+             <button className="main-button">Review Your Order</button>
                      
 
         </div>

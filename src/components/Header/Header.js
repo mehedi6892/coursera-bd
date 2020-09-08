@@ -7,7 +7,7 @@ const header = () => {
         <div className='header'>
             <img src={logo} alt="logo"/>
             <nav>
-                <a href="/buy">Buy Course</a>
+                <a href="/buy">All Courses</a>
                 <a href="/review">Order </a>
                 <a href="/manage">Manage Inventory</a>
             </nav>
